@@ -1,7 +1,7 @@
 body{
     color: black;
     text-align: center;
-    font-family: "Montserrat";
+    font-family: "Calibri";
 }
 
 #container{
@@ -13,8 +13,9 @@ body{
 }
 
 #container h1{
-    font-size: 20x;
+    font-size: 20x;}
     
+
 #cabecera{
         background:#33a;
         box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
