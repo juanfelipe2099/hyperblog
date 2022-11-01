@@ -35,3 +35,13 @@ body{
     
 #post{background:#fff;
     padding:1em}
+
+#footer{
+    background: #777;
+    color: white; 
+    text-align: center;
+    padding: 0.5m;
+    font-weight: 500;
+    font-family: montserrat;
+    
+}
