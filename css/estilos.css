@@ -43,5 +43,10 @@ body{
     padding: 0.5m;
     font-weight: 500;
     font-family: montserrat;
+
+}
+
+#imagen{
+    width: 100%;
     
 }
